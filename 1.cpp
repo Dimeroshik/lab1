@@ -1,4 +1,8 @@
 #include <iostream>
 main(){
-  std::cout<<"Hello"<<'1'<<endl;
+
+  std::cout<<"Hello"<<'1'<<'2'<<endl;
+
+
+
 }
